@@ -1,0 +1,22 @@
+a {
+  text-decoration: none;
+}
+
+.card {
+  display: inline-block;
+}
+
+.col-md-3 {
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.card-footer {
+  background-color: silver;
+}
+
+.infoRow {
+  margin-top: 2%;
+  margin-left: +15%;
+}
